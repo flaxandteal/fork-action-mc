@@ -1,0 +1,9 @@
+name: 'MinIO Client'
+author: 'Christian Ulbrich'
+description: 'Expose MinIO Client'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'upload-cloud'  
+  color: 'black'
